@@ -1,0 +1,13 @@
+# Build Folders
+[Bb]in/
+[Oo]bj/
+
+# Other files and folders to ignore
+*.user
+*.userosscache
+*.suo
+*.cache
+*.vs/
+*.nupkg
+*.snk
+# Add other files and folders as needed
